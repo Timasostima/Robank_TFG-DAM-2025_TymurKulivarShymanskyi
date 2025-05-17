@@ -1,0 +1,9 @@
+[submodule "robank_android"]
+	path = robank_android
+	url = https://github.com/Timasostima/robank_android
+[submodule "robank_backend"]
+	path = robank_backend
+	url = https://github.com/Timasostima/robank_backend
+[submodule "robank_frontend"]
+	path = robank_frontend
+	url = https://github.com/Timasostima/robank_frontend
