@@ -1,6 +1,6 @@
 # Robank - Sistema de Gestión de Finanzas Personales
 
-![Robank Logo](robank_frontend/public/Robank_Logo_Small.png)
+<!-- ![Robank Logo](robank_frontend/public/Robank_Logo_Small.png) -->
 
 Sistema multiplataforma para la gestión de finanzas personales, desarrollado como Trabajo de Fin de Grado para el ciclo de Desarrollo de Aplicaciones Multiplataforma.
 
@@ -8,9 +8,9 @@ Sistema multiplataforma para la gestión de finanzas personales, desarrollado co
 
 | Componente | Descripción |
 |------------|-------------|
-| [**Robank Android**](robank_android/) | Aplicación nativa para Android |
-| [**Robank Backend**](robank_backend/) | Servidor RESTful con Spring Boot |
-| [**Robank Frontend**](robank_frontend/) | Aplicación web SPA con Angular |
+| [**Robank Android**](https://github.com/Timasostima/robank_android/) | Aplicación nativa para Android |
+| [**Robank Backend**](https://github.com/Timasostima/robank_backend/) | Servidor RESTful con Spring Boot |
+| [**Robank Frontend**](https://github.com/Timasostima/robank_frontend/) | Aplicación web SPA con Angular |
 
 > [!NOTE]
 > Cada componente puede funcionar de manera independiente, pero se recomienda ejecutar el sistema completo para disfrutar de todas las funcionalidades.
